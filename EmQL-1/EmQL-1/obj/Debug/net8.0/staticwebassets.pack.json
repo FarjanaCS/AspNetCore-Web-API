@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Parctice\\Monthly-08\\EmQL-1\\EmQL-1\\wwwroot\\Pictures\\watzvsgb.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\watzvsgb.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmQL-1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmQL-1.props",
+      "PackagePath": "build\\EmQL-1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmQL-1.props",
+      "PackagePath": "buildMultiTargeting\\EmQL-1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmQL-1.props",
+      "PackagePath": "buildTransitive\\EmQL-1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

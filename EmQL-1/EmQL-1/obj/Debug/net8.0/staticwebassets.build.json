@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Nex4aFKGcDCpIRL3C5rsc3u8IyBKjUKDlhGkU3g7gvs=",
+  "Source": "EmQL-1",
+  "BasePath": "_content/EmQL-1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmQL-1\\wwwroot",
+      "Source": "EmQL-1",
+      "ContentRoot": "D:\\Parctice\\Monthly-08\\EmQL-1\\EmQL-1\\wwwroot\\",
+      "BasePath": "_content/EmQL-1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Parctice\\Monthly-08\\EmQL-1\\EmQL-1\\wwwroot\\Pictures\\watzvsgb.jpg",
+      "SourceId": "EmQL-1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Parctice\\Monthly-08\\EmQL-1\\EmQL-1\\wwwroot\\",
+      "BasePath": "_content/EmQL-1",
+      "RelativePath": "Pictures/watzvsgb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\watzvsgb.jpg"
+    }
+  ]
+}
